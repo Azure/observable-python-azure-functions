@@ -1,0 +1,20 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "event",
+      "direction": "in",
+      "eventHubName": "ehub-onprem-ingestion",
+      "connection": "EVENTHUBS_NS_CONNECTION_STRING",
+      "consumerGroup": "$Default"
+    },
+    {
+      "type": "serviceBus",
+      "direction": "out",
+      "connection": "SERVICEBUS_NS_CONNECTION_STRING",
+      "name": "outputServiceBusMessage",
+      "queueName": "sbus-onprem-ingestion"
+    }
+  ]
+}

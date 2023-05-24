@@ -1,0 +1,356 @@
+{
+    "id": "478c9f34-4fb4-45fb-b85a-4fbaaaba1e40",
+    "sample_part": "3",
+    "data": [
+        {
+            "user_id": "imhUgZdEXe-JLZT381S6-w",
+            "business_id": "bp5Mk2d0qofUeF5uLauIbg",
+            "text": "Everything on the menu is authentic!",
+            "date": "2017-06-14 01:57:51",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "LkXNQQaIc5yrKu9Ap87RrA",
+            "business_id": "ObkVEcYUuf3efg-0V_WYfQ",
+            "text": "Self serve onions, relish, mayo?  And FREE caramelized onions?  Yes!",
+            "date": "2011-10-03 19:22:51",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "wdNTfRMdKZqpOo1G4YJGbA",
+            "business_id": "vxLV9tci88Hsr1G01uleag",
+            "text": "We've been eating out too much lately!",
+            "date": "2011-08-13 22:32:28",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "x-8k5jzFftrIV83M98smmQ",
+            "business_id": "uWLFplSCk3lI9rf84ZDwUw",
+            "text": "Good biscuits and sausage gravy, but you've got to ask for it because it isn't in the menu.",
+            "date": "2014-04-04 14:27:21",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "t0t4XNPtitNdgJv9UbfJgQ",
+            "business_id": "Y989Hsw30AYUMcyNjBz9iQ",
+            "text": "Try the crispy duck confit!",
+            "date": "2013-02-16 21:13:16",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "r4NVmZeL9UwaISRQYKMv0Q",
+            "business_id": "isuOwjnrPrr1bRELgQM0aA",
+            "text": "Just had the Korean short ribs . Yum.",
+            "date": "2013-09-19 19:20:08",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "2GqQGWRmasX8qDuG7CDiWg",
+            "business_id": "pTMi7h7JMtwSsijdx_BPDg",
+            "text": "Probably the best pizza in the area.\nOn Wednesday 4-8 the large round pies are half price",
+            "date": "2017-06-22 12:04:47",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "wzX8UssOglKwSDx8qob8zA",
+            "business_id": "yZwlpIhzVRxVdbIkuw9-VA",
+            "text": "Open late and everything is yummy.",
+            "date": "2015-09-10 05:31:03",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "WhjYxQIiAIZPkVqUqSBDbg",
+            "business_id": "LG80KAbnjI3fICP99UE9RQ",
+            "text": "The people here are rude,",
+            "date": "2017-06-23 23:03:51",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "jlN9luFsNZfZkxnM7cdLKQ",
+            "business_id": "cv-SmPhbpwQCtlI2Q7KJIQ",
+            "text": "Very good shanghai soup dumplings",
+            "date": "2013-09-06 23:58:56",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "HQG3no8C5U31z-k1MaYCqQ",
+            "business_id": "xSn2d1RTvK7e4KM0bI2NLg",
+            "text": "Stale chips but the queso is oh so good...",
+            "date": "2012-03-14 01:20:22",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "YrDbyRFyan6nx5aXb_N8Hg",
+            "business_id": "fCDMLD21ypv1XZ_EyafCkQ",
+            "text": "Delicious Vegetarian pressed Cuban sandwich!",
+            "date": "2013-06-07 23:01:07",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "9r0RoGmf7211qmiLZsgYeg",
+            "business_id": "WMkiheTT-8kRslImVLWMVw",
+            "text": "The all local beers is a def plus!\nI had the garlic shrimp with garlic bread and my wife had the duck salad. The portions are decent and the duck was excellent, nice crispy but not burnt skin and the meat was perfect not overdone. My shrimp was good, a bit over seasoned, however not too much, nice size pieces and really good with the sauce. I would def go back, it's worth a look!",
+            "date": "2013-06-20 23:50:52",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "5Si-3Rt03p8r7fGYd-1EVw",
+            "business_id": "htO_nlxkEsYHzDrtbiUxew",
+            "text": "Great coffee",
+            "date": "2013-02-05 16:52:57",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "UlWDGR0QrBbdFsVY6ugocw",
+            "business_id": "NhyPM2MS8WDfXb8ZT1hgfg",
+            "text": "Red velvet!",
+            "date": "2011-04-11 02:04:54",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "9M_nk0kA3CTJt6UoxRAK_g",
+            "business_id": "oJf3IZloLf_PDeEeZW5nDg",
+            "text": "Meatball sandwich",
+            "date": "2018-03-27 17:48:35",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "EW3jDZFPhUEKPxPMhxLN8A",
+            "business_id": "90pJu2O7fIEm_N31Fyue7A",
+            "text": "They have mocktails.",
+            "date": "2017-07-23 21:11:06",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "DGEpPdLiNNI7I6GrdFePKQ",
+            "business_id": "ZVRqsjSYyrMNRXsdgsKXVg",
+            "text": "The best nail salon around, both in appearance and professionalism.",
+            "date": "2015-06-21 19:38:45",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "NAaivzPy-1wVLWp9h5BAYg",
+            "business_id": "gFApW0S59priCHlZbMPSiA",
+            "text": "New place",
+            "date": "2012-10-17 16:43:35",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "2eC4qmjUNR7-LG8s6t4Ehg",
+            "business_id": "G6h-9AZro_Ni_4eRR9CkRw",
+            "text": "Pizza spice!",
+            "date": "2012-03-18 17:03:36",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "kRlC4Got8Uo9RHdEcWVMuA",
+            "business_id": "zBpNvn_gH6T9KYTZCvqtxg",
+            "text": "Save room for dessert. It is soooooo good. You definately don't want to miss out on trying it.",
+            "date": "2016-05-23 00:33:04",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "vszWukp8rqteQNhS4RMKuw",
+            "business_id": "_wfMydyx6Mlf5Uybg7XWNg",
+            "text": "Take your woman with you. You don't want to get the wrong one.",
+            "date": "2015-03-30 20:34:18",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "RkOdQL51_KAkxlGbIUIXIA",
+            "business_id": "Lv1sMLqeXVn0CaZLIrewlw",
+            "text": "Show up on time :)",
+            "date": "2014-03-23 12:53:39",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "xyad5PXaHTdKrdNClXbMqQ",
+            "business_id": "SIoCIxjn4jLt2O-4DajWJw",
+            "text": "Chicken sando comin' up.",
+            "date": "2012-05-28 22:29:54",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "TD_5wqsgp5HrBoG6PWLehQ",
+            "business_id": "DbKj1ZbIGTLUjprdDk4-3A",
+            "text": "Eat everything lol",
+            "date": "2014-06-20 18:08:53",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "0LY6l9-Z2IrVtnfj6OX06w",
+            "business_id": "Zmwm6d872C8kWJr4b6UGfg",
+            "text": "Great tasty food",
+            "date": "2018-04-01 00:10:00",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "zoBajEyVA0z4IjbFsMJksg",
+            "business_id": "WnZhGc722cszK_5imM4Qsw",
+            "text": "Rawk!",
+            "date": "2011-10-22 01:29:32",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "Ycb2MvdSCdRV_p8F7YGHEQ",
+            "business_id": "n3sRn8jx0zT5ew4tjjrRBw",
+            "text": "Great breakfast and lunch",
+            "date": "2015-01-21 12:29:08",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "QVoOwjH06W-jYMjVh8hwIQ",
+            "business_id": "SAQgO7Ij2cdnMp8VQKBffA",
+            "text": "Try the Calamari!",
+            "date": "2011-10-08 15:48:15",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "4Dy4PVb5lykv4N0kYiRhVA",
+            "business_id": "HpmsY3JJ4gIuS8EiVHwMJw",
+            "text": "New Fall Menu is amazing! If at brunch Sat or Sun, you must try the Rabbit with a creamy polenta fresh micro greens and sauteed kale! Delish!",
+            "date": "2017-11-18 21:11:26",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "P-YebwBHwvPL4kfU8xXhNA",
+            "business_id": "dNR-b-CsrFGYhMo9zLMrCw",
+            "text": "Yum.  Curry fried rice is great.  Big portions.  Warning.  You will get tired of rice for a few weeks.  Unless you are Asian lol.",
+            "date": "2012-01-17 14:09:38",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "d1LU2oIXZ3QaU5fZ3Jp2HQ",
+            "business_id": "8Kw4-lW3-ag4s2s9ELQzgQ",
+            "text": "Can't pay at the pump, but same price cash or charge.",
+            "date": "2011-05-08 20:22:19",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "ooOdMu4BchfGH58mezhzGg",
+            "business_id": "ADe114o7Z4vb1O6HkM6YEA",
+            "text": "Grilled chicken plate with tzatziki sauce",
+            "date": "2013-02-19 22:49:30",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "DnL9CT5gzpwyArhGaNQrjQ",
+            "business_id": "2GgFrz1dQ6NzR29UIYQ8Xg",
+            "text": "Cute little local owned coffee shop. Good coffee and delicious snacks.",
+            "date": "2017-06-22 16:39:21",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "ojb3bh9erj8OsjImzZwf9w",
+            "business_id": "vEdNsFx-ozYFNxR9XZQ5AA",
+            "text": "Khole suggested the mac and cheese and it was amazing! Def will be back!",
+            "date": "2017-05-13 00:39:20",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "fIvzTi_mk6yq7LTw8xiHSA",
+            "business_id": "92HeuR3hbRwGopK5zmmuag",
+            "text": "Docks for iPod charging and speakers",
+            "date": "2010-02-26 23:38:02",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "39OQEezZysSJv735m66T-A",
+            "business_id": "Xpue0uHw0dk7HdIXVjhdUA",
+            "text": "Owner is really sweet and takes the time to explain the ingredients in each product and the effects of the plant.",
+            "date": "2014-09-21 18:37:25",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "Up01JEJT09-gYC2QixklZQ",
+            "business_id": "uQWhejZCTCeJheRXOAU8ig",
+            "text": "If you are not a member, you can still sign your child up for swim lessons during the summer",
+            "date": "2017-06-28 15:40:13",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "RKULSOrIvvYpDmtuYXEXzA",
+            "business_id": "3GCYUw_jbRVmKRPizwMAzw",
+            "text": "....another frequented visit....been coming here since I moved to Havertown in1983.",
+            "date": "2013-05-16 18:36:47",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "6s5whJLSvZFIF0Am4RyjUg",
+            "business_id": "jiGj-UE_2I2-An5IFeNiqw",
+            "text": "Don't miss it, it sits back off the street a bit.",
+            "date": "2013-05-31 23:35:54",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "iNZuWjfkYJb1GvyqghOj6w",
+            "business_id": "sTI1emOwk2eJPw7ka_YPXQ",
+            "text": "Great! Rachel was awesome.",
+            "date": "2017-09-25 15:17:08",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "q4hQSVOCK-FfNfqPqiBh4g",
+            "business_id": "aM3gFY8Eq2KJuvNBlGPJEA",
+            "text": "Get a free tote for checking in with Yelp @ the Brentwood location!",
+            "date": "2013-08-26 00:29:42",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "xaJ0JkoGdaSaWkKGMhc9pg",
+            "business_id": "Mf1sUtl_KcQqfSUM-8iwfQ",
+            "text": "Veg biryani was ok.chicken was bad. Neither were true biryanis. The rice had a horrible red dye",
+            "date": "2010-12-24 03:36:12",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "UqVnFtX7ORbDhMW6Pd77Jw",
+            "business_id": "Esf3-D_44pArPd9GqysoCg",
+            "text": "The Duchess = combo of marzipan on cream on lemon\/raspberry white cake that's moist and yummy (better than this sounds!). Worth the price.",
+            "date": "2010-12-07 18:44:34",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "3vofzamIMkrS0PPf5aSmRQ",
+            "business_id": "H5nMeiXJmLpBALeV8A-FeQ",
+            "text": "Pineapple-basil is the best flavor",
+            "date": "2011-08-04 04:24:32",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "YZJxCGJYGYR-IbazxS3Exw",
+            "business_id": "BVNO7y66gBb82RwZVj74HQ",
+            "text": "They have bathrooms in the restaurant.",
+            "date": "2018-03-24 16:21:05",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "_sxfMOKphtb9S_4tq5qXQw",
+            "business_id": "iFunuVzrg10UesZvMPCHHg",
+            "text": "Great customer service on every visit",
+            "date": "2016-12-09 23:52:17",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "ShzFe3RF8Kwl8vzhZ9LIAA",
+            "business_id": "N3ZhDBulGhkuJnZ0ue109A",
+            "text": "It is now more of a restaurant then a bar. And I love that! Spanish style food and drink menu, salsa music playing in the background. Great atmosphere. Super clean. Friendly staff.Try the coconut mojitos (garnished with actual mini coconuts!) Or the Passion Fruit Margarita (yum!) New menu. Mainly Everything is Spanish style (rice and beans, tostones, maduros,etc). They have a larger dining area on the 2nd floor and an outdoor patio that's only accessible through the inside of the bar.",
+            "date": "2014-09-10 05:29:00",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "pWcMk-CufDr7a9hpcd1fsg",
+            "business_id": "TpUGMw7Lq9p5WT1t2qHD0A",
+            "text": "Great food. Try the steak kabobs. Very yummy!",
+            "date": "2015-01-19 05:10:21",
+            "compliment_count": 0
+        },
+        {
+            "user_id": "xZgbvWE-fF0QEv3k8FwRuw",
+            "business_id": "VHA-b1NH4tIZB_IVEf_pmA",
+            "text": "Pokie rolls at the dessert bar!",
+            "date": "2011-10-01 18:41:26",
+            "compliment_count": 0
+        }
+    ]
+}

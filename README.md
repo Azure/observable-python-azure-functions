@@ -1,14 +1,89 @@
-# Project
+# observable-azure-functions
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+We present a sample code that showcases observable use Azure Functions.
+We provide:
 
-As the maintainer of this project, please make a few updates:
+- Python code using OpenCensus
+- code to deploy the sample infrastructure
+- code to publish the Azure Function App
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Architecture
+
+The sample architecture relies on:
+
+- Azure Functions: a service that provides managed serverless to run your applications.
+
+- Azure Event Hubs: a scalable event ingestion service that can receive and process millions of events per second.
+
+- Azure Service Bus: a fully managed message broker with message queues and publish-subscribe topics.
+
+- Azure Table Storage: a service that stores non-relational structured data (also known as structured NoSQL data) in the cloud, providing a key/attribute store with a schemaless design.
+
+- Application Insights: Application Insights is a feature of Azure Monitor and is useful to monitor applications from development, through test, and into production in the following ways:
+
+    1. Proactively understand how an application is performing.
+    1. Reactively review application execution data to determine the cause of an incident. 
+
+## Scenario
+
+Contoso like many companies, has the need to ingest on-premises or third-party data in the cloud. An internal API exposes data stored on-premises and Contoso builds the following distributed architecture to extract, process and ingest that data in the cloud:
+
+![A picture that shows the implemented architecture. It is divided in three steps: query, process and upsert.](./data/architecture-diagram.png)
+
+1) **Query step**
+
+    A timer-triggered Azure function that queries a Contoso internal API to get the latest metadata once a day. It then uses the Azure Event Hub output binding to send the data as events.
+
+2) **Process step**
+
+    An Event-hub-triggered Azure function processes and formats the data received to a pre-defined format. It then publishes one message to Azure Service Bus per asset that needs to be imported, using the Azure Service Bus output binding.
+
+3) **Upsert step**
+
+    A Service-bus-triggered Azure function consumes messages from the queue and launches an upsert operation.
+
+## Pre-requirements
+
+- Access to an Azure Subscription
+- An existing resource group
+- Docker installed
+
+## Instructions
+
+First, open the folder in dev container.
+
+Then, copy the ```config/.env.SAMPLE``` to ```config/.env``` and fill thee following required environment variables:
+
+```bash
+TENANT_ID= 
+SUBSCRIPTION_ID= 
+RESOURCE_GROUP_NAME=
+DEPLOYMENT_NAME=
+```
+
+First create a cirtual environment. From the root directory, launch:
+
+```bash
+make create-env
+```
+
+To deploy the infrastructure:
+
+```bash
+make deploy-infra
+```
+
+To publish the Azure Function App:
+
+```bash
+make deploy-app
+```
+
+Note: If you want to both deploy the infrastructure and deploy the Azure Function App, you can do:
+
+```bash
+make deploy-all
+```
 
 ## Contributing
 

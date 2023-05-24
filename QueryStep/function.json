@@ -1,0 +1,18 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "timer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "* * * 1 * *"
+    },
+    {
+      "type": "eventHub",
+      "direction": "out",
+      "name": "outputEventHubMessage",
+      "connection": "EVENTHUBS_NS_CONNECTION_STRING",
+      "eventHubName": "ehub-onprem-ingestion"
+    }
+  ]
+}
