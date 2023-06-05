@@ -66,7 +66,7 @@ We need to deploy both the infrastructure and the Azure Function App.
 1. Deploy the infrastructure, following one of those two options:
     1. **Option 1:** Using the following "Deploy to Azure button". Make sure to sign-in to your Azure account and select the right subscription and resource group:
 
-        [ADD buton "DEPLOY TO AZURE"]
+        [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fobservable-python-azure-functions%2Finitial-branch-code%2Finfra%2Fmain.json)
 
         Then, copy the ```config/.env.SAMPLE``` to ```config/.env``` and fill thee following required environment variables. You can find the values of ```TENANT_ID```, ```SUBSCRIPTION_ID```, ```RESOURCE_GROUP_NAME``` in the Azure portal. Choose a ```DEPLOYMENT_NAME```
 
@@ -103,6 +103,10 @@ Note: If you want to both deploy the infrastructure and deploy the Azure Functio
 ```bash
 make deploy-all
 ```
+
+## Clean up resources
+
+Once the deployed resources are no longer required, make sure to delete them. To do so, you can delete the resource group in which you chose to deploy.
 
 ## Contributing
 
