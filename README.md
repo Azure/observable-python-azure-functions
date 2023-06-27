@@ -7,7 +7,7 @@ We provide:
 - code to deploy the sample infrastructure
 - code to publish the Azure Function App
 
-This sample supports the "End-to-end monitoring of a distributed system: a case in point with Azure Functions and OpenCensus" Azure Architecture Center.
+This sample supports the ["Monitor a distributed system by using Application Insights and OpenCensus" article of the Azure Architecture Center.](https://learn.microsoft.com/azure/architecture/guide/devops/monitor-with-opencensus-application-insights)
 
 ## Architecture
 
@@ -66,7 +66,7 @@ We need to deploy both the infrastructure and the Azure Function App.
 1. Deploy the infrastructure, following one of those two options:
     1. **Option 1:** Using the following "Deploy to Azure button". Make sure to sign-in to your Azure account and select the right subscription and resource group:
 
-        [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fobservable-python-azure-functions%2Finitial-branch-code%2Finfra%2Fmain.json)
+        [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fobservable-python-azure-functions%2Fmain%2Finfra%2Fmain.json)
 
         Then, copy the ```config/.env.SAMPLE``` to ```config/.env``` and fill thee following required environment variables. You can find the values of ```TENANT_ID```, ```SUBSCRIPTION_ID```, ```RESOURCE_GROUP_NAME``` in the Azure portal. Choose a ```DEPLOYMENT_NAME```
 
